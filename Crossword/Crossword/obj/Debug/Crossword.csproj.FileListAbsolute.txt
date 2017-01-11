@@ -1,0 +1,21 @@
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\Crossword.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\Crossword.exe
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\Crossword.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.CrosswordForm.resources
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.exe
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\CrosswordCall.dll
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\CrosswordCall.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.crosswordForm.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.Cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\bin\Debug\CrosswordCall.dll
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\exzam\Crossword\Crossword\bin\Debug\CrosswordCall.pdb

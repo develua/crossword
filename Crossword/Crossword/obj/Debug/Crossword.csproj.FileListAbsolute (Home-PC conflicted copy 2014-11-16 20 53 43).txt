@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\Crossword.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\Crossword.exe
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\Crossword.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.CrosswordForm.resources
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.exe
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\obj\Debug\Crossword.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\CrosswordCall.dll
+c:\users\admin\documents\visual studio 2013\Projects\Crossword\Crossword\bin\Debug\CrosswordCall.pdb
+D:\Документы\Учеба\Работы\WinForms\exzam\Crossword\Crossword\bin\Debug\Crossword.exe.config
+D:\Документы\Учеба\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.exe
+D:\Документы\Учеба\Работы\WinForms\exzam\Crossword\Crossword\obj\Debug\Crossword.pdb
